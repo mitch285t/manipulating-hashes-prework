@@ -6,9 +6,8 @@ def second_challenge
    grains: ["rice", "pasta"]
   }
 
-  groceries.each do |key, value|
-    puts key.values 
-  end
+  list == groceries.values 
+  list.flatten 
 
   
 
