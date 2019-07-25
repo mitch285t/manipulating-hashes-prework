@@ -21,6 +21,7 @@ contact.each do |person, data|
     end 
   end 
 end 
+end 
 
 first_challenge
   
