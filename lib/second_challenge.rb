@@ -10,5 +10,5 @@ def second_challenge
   list.flatten 
 
   
-
+end
 end
